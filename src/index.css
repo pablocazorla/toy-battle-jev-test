@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+body {
+  background-color: #222;
+  padding: 0 16px;
+}
+canvas {
+  display: block;
+  width: 100%;
+  height: auto;
+  background-color: #111;
+}
